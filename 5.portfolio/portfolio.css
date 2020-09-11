@@ -1,0 +1,37 @@
+#portfolio {
+    margin-top: -20px;
+    padding-top: 0;
+}
+
+.portfolio-div-settings {
+    height: 550px;
+}
+
+
+.portfolio-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-top: 10%;
+}
+
+
+#portfolio-1-background-img {
+    left: 0;
+    padding-top: 0;
+    position: absolute;
+    width: 50%;
+    z-index: -1;
+    opacity: 0.5;
+}
+
+#portfolio-2-background-img {
+    left: 50%;
+    right: 0;
+    padding-top: 0;
+    position: absolute;
+    width: 50%;
+    z-index: -1;
+    opacity: 0.5;
+}

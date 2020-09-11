@@ -1,0 +1,80 @@
+footer {
+    background-color: black;
+    width: 100%;
+    bottom: 0;
+    color: white;
+}
+
+#footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+footer h4 {
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+footer p {
+    padding-bottom: 10px;
+    margin-left: 5px;
+    font-family: 'Buenard', serif;
+    color: lightgrey;
+    opacity: 0.7;
+    font-size: 17px;
+}
+
+footer p:hover {
+    opacity: 1;
+    color: white;
+}
+
+footer a:any-link {
+    text-decoration: none;
+    color: white;
+}
+
+footer i {
+    margin-right: 5px;
+    font-size: 17px;
+}
+
+.fa-map-marker-alt {
+    font-size: 14px;
+    margin-right: 7px;
+}
+
+@media (min-width: 10px) and (max-width: 580px) {
+    .footer-small {
+        text-align: center;
+    }
+
+    footer h4 {
+        font-size: 22px;
+    }
+
+
+}
+
+@media (min-width: 10px) and (max-width: 774px) {
+
+    #footer {
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+
+    footer p {
+        font-size: 19px;
+    }
+}
+
+@media (min-width: 775px) and (max-width: 1000px) {
+
+    #footer {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}

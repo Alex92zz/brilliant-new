@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+figure {
+    width: 180px;
+    height: 50px;
+    cursor: pointer;
+    perspective: 500px;
+    -webkit-perspective: 500px;
+    margin-top: 20px;
+}
+
+figure div {
+    height: 100%;
+    transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+}
+
+figure:hover div {
+    transform: rotateX(90deg);
+    ;
+    ;
+    ;
+}
+
+figure div span {
+    color: white;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    box-sizing: border-box;
+    border: 4px solid white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+figure div span a:any-link {
+    text-decoration: none;
+    color: inherit;
+    font-family: inherit;
+}
+
+figure div span:nth-child(1) {
+    color: white;
+    transform: translate3d(0, 0, 25px);
+    -webkit-transform: translate3d(0, 0, 25px);
+}
+
+figure div span:nth-child(2) {
+    color: black;
+    background: #fff;
+    transform: rotateX(90deg) translate3d(0, 0, 25px);
+    -webkit-transform: rotateX(-90deg) translate3d(0, 0, 25px);
+}
