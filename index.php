@@ -287,13 +287,14 @@
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings">
 
-                <img id="portfolio-1-background-img" src="5.portfolio/the-three-cooks-3-2-main.jpg">
+                <img id="portfolio-1-background-img" class="responsive" src="5.portfolio/the-three-cooks-3-2-main.jpg">
 
                 <div class="your-element" data-tilt>
                     <a href="http://thethreecooks.brilliantwebdesign.co.uk/">
                         <img class="portfolio-image" src="5.portfolio/the-three-cooks-3-2-main.jpg">
-                        <button type="button" class="button-outside">Restaurant Home</button>
+
                     </a>
+                    <button type="button" class="button-outside">Restaurant Home</button>
                 </div>
 
             </div>
@@ -622,6 +623,7 @@
     <script src="1.nav/animated-square.js"></script>
     <script src="1.nav/menuanimation.js"></script>
     <script src="1.nav/nav.js"></script>
+    <script src="1.nav/nav-resize-on-scroll.js"></script>
 
     <!-- need to be fixed to make it work
     <script src="1.nav/nav-resize-on-scroll.js"></script>
