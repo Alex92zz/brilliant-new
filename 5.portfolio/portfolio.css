@@ -16,12 +16,24 @@
     margin-top: 10%;
 }
 
+@media (min-width: 10px) and (max-width: 932px) {
+    #portfolio-1-background-img {
+        width: auto;
+        height: 100%;
+    }
+}
+
+@media (min-width: 933px) and (max-width: 3000px) {
+    #portfolio-1-background-img {
+        width: 50%;
+        height: auto;
+    }
+}
 
 #portfolio-1-background-img {
     left: 0;
     padding-top: 0;
     position: absolute;
-    width: 50%;
     z-index: -1;
     opacity: 0.5;
 }
@@ -34,25 +46,4 @@
     width: 50%;
     z-index: -1;
     opacity: 0.5;
-}
-
-@media (min-width: 10px) and (max-width: 991px) {
-    .portfolio-div-settings {
-        height: 100%;
-    }
-
-    #portfolio-1-background-img {
-        width: 100%;
-        background-position: center;
-        background-size: auto;
-    }
-
-    #portfolio-2-background-img {
-        left: 0;
-        width: 100%;
-    }
-
-    .portfolio-image {
-        margin-top: 20%;
-    }
 }

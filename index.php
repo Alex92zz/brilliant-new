@@ -86,7 +86,7 @@
 
     <!-- Header Start --->
     <header id="particles-js" itemscope itemtype="http://schema.org/LocalBusiness">
-        <h2 id="brand" class="">
+        <h2 id="brand" class="brand-normal">
             <!-- rotating-diamond.css --->
             <div class="wrap rotor-x">
                 <div class="wrap rotor-y">
@@ -131,15 +131,15 @@
                 </div>
             </div> <a id="brand-text" href="https://brilliantwebdesign.co.uk/" itemprop="name">Brilliant<span id="brand-small"> Web Design</span></a>
             <span class="effect aeneas">
-                <a href="https://www.facebook.com/brilliantwebdesign.co.uk/" class="fb" title="Join us on Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                <a href="https://www.facebook.com/brilliantwebdesign.co.uk/" class="fb effect-normal" title="Join us on Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
 
-                <a href="https://twitter.com/web_brilliant" class="tw" title="Join us on Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                <a href="https://twitter.com/web_brilliant" class="tw effect-normal" title="Join us on Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 
-                <a href="https://g.page/brilliant-web-design-uk?gm" class="g-plus" title="Join us on Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                <a href="https://g.page/brilliant-web-design-uk?gm" class="g-plus effect-normal" title="Join us on Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
 
-                <a href="https://www.instagram.com/brilliant_web_design/" class="insta" title="Join us on Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                <a href="https://www.instagram.com/brilliant_web_design/" class="insta effect-normal" title="Join us on Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
 
-                <a href="#" class="in" title="Join us on Linked In"><i class="fa fa-linkedin" areffectia-hidden="true"></i></a>
+                <a href="#" class="in effect-normal" title="Join us on Linked In"><i class="fa fa-linkedin " areffectia-hidden="true"></i></a>
             </span>
         </h2>
 
