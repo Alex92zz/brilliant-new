@@ -12,16 +12,11 @@
         margin-left: 20px;
     }
 
-    .effect-normal {
-        width: 30px;
-        height: 30px;
-        font-size: 15px;
-    }
-
-
     .effect a {
         text-decoration: none !important;
         color: #fff;
+        width: 30px;
+        height: 30px;
         display: -webkit-box;
         display: inline-flex;
         -webkit-box-align: center;
@@ -29,6 +24,7 @@
         -webkit-box-pack: center;
         justify-content: center;
         border-radius: 10px;
+        font-size: 15px;
         overflow: hidden;
     }
 
@@ -90,21 +86,12 @@
         margin-left: 20px;
     }
 
-    .effect-normal {
-        width: 40px;
-        height: 40px;
-        font-size: 15px;
-    }
-
-    .effect-small-on-scroll {
-        width: 20px;
-        height: 20px;
-        font-size: 13px;
-    }
-
     .effect a {
+
         text-decoration: none !important;
         color: #fff;
+        width: 40px;
+        height: 40px;
         display: -webkit-box;
         display: inline-flex;
         -webkit-box-align: center;
@@ -112,6 +99,7 @@
         -webkit-box-pack: center;
         justify-content: center;
         border-radius: 10px;
+        font-size: 23px;
         overflow: hidden;
     }
 

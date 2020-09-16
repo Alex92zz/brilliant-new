@@ -86,7 +86,7 @@
 
     <!-- Header Start --->
     <header id="particles-js" itemscope itemtype="http://schema.org/LocalBusiness">
-        <h2 id="brand" class="brand-normal">
+        <h2 id="brand" class="">
             <!-- rotating-diamond.css --->
             <div class="wrap rotor-x">
                 <div class="wrap rotor-y">
@@ -131,15 +131,15 @@
                 </div>
             </div> <a id="brand-text" href="https://brilliantwebdesign.co.uk/" itemprop="name">Brilliant<span id="brand-small"> Web Design</span></a>
             <span class="effect aeneas">
-                <a href="https://www.facebook.com/brilliantwebdesign.co.uk/" class="fb effect-normal" title="Join us on Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                <a href="https://www.facebook.com/brilliantwebdesign.co.uk/" class="fb social-icons" title="Join us on Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
 
-                <a href="https://twitter.com/web_brilliant" class="tw effect-normal" title="Join us on Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                <a href="https://twitter.com/web_brilliant" class="tw social-icons" title="Join us on Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 
-                <a href="https://g.page/brilliant-web-design-uk?gm" class="g-plus effect-normal" title="Join us on Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                <a href="https://g.page/brilliant-web-design-uk?gm" class="g-plus social-icons" title="Join us on Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
 
-                <a href="https://www.instagram.com/brilliant_web_design/" class="insta effect-normal" title="Join us on Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                <a href="https://www.instagram.com/brilliant_web_design/" class="insta social-icons" title="Join us on Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
 
-                <a href="#" class="in effect-normal" title="Join us on Linked In"><i class="fa fa-linkedin " areffectia-hidden="true"></i></a>
+                <a href="#" class="in social-icons" title="Join us on Linked In"><i class="fa fa-linkedin" areffectia-hidden="true"></i></a>
             </span>
         </h2>
 
@@ -287,14 +287,13 @@
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings">
 
-                <img id="portfolio-1-background-img" class="responsive" src="5.portfolio/the-three-cooks-3-2-main.jpg">
+                <img id="portfolio-1-background-img" src="5.portfolio/the-three-cooks-3-2-main.jpg">
 
                 <div class="your-element" data-tilt>
                     <a href="http://thethreecooks.brilliantwebdesign.co.uk/">
                         <img class="portfolio-image" src="5.portfolio/the-three-cooks-3-2-main.jpg">
-
+                        <button type="button" class="button-outside">Restaurant Home</button>
                     </a>
-                    <button type="button" class="button-outside">Restaurant Home</button>
                 </div>
 
             </div>
@@ -343,7 +342,6 @@
             </div>
         </div>
     </section>
-
 
 
 

@@ -7,10 +7,6 @@
     overflow: visible;
 }
 
-.wrap-small {
-    transform: scale3d(0.37, 0.37, 0.37);
-}
-
 .triangle {
     position: absolute;
     left: -100px;
