@@ -287,32 +287,65 @@
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings">
 
-                <img id="portfolio-1-background-img" src="5.portfolio/the-three-cooks-3-2-main.jpg">
+                <img class="background-image-settings" id="portfolio-1-background-img" src="5.portfolio/the-three-cooks-3-2-main.jpg">
 
-                <div class="your-element" data-tilt>
+                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="800">
                     <a href="http://thethreecooks.brilliantwebdesign.co.uk/">
-                        <img class="portfolio-image" src="5.portfolio/the-three-cooks-3-2-main.jpg">
-                        <button type="button" class="button-outside">Restaurant Home</button>
+                        <div class="portfolio-margin-top">
+                            <img class="portfolio-image" src="5.portfolio/the-three-cooks-3-2-main.jpg">
+                            <button type="button" class="button-outside">Restaurant</button>
+                        </div>
                     </a>
                 </div>
 
             </div>
 
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings">
+                <img class="background-image-settings" id="portfolio-2-background-img" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
+
+                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="800">
+                    <a href="http://progymfitness.brilliantwebdesign.co.uk/">
+                        <div class="portfolio-margin-top">
+                            <img class="portfolio-image" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
+                            <button type="button" class="button-outside">Gym Home</button>
+                        </div>
+
+                    </a>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings">
 
-                <img id="portfolio-2-background-img" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
+                <img class="background-image-settings" id="portfolio-1-background-img" src="5.portfolio/the-three-cooks-3-2-main.jpg">
 
-                <div class="your-element" data-tilt>
-                    <a href="http://progymfitness.brilliantwebdesign.co.uk/">
-                        <img class="portfolio-image" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
-                        <button type="button" class="button-outside">Gym Home</button>
+                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="800">
+                    <a href="http://thethreecooks.brilliantwebdesign.co.uk/">
+                        <div class="portfolio-margin-top">
+                            <img class="portfolio-image" src="5.portfolio/the-three-cooks-3-2-main.jpg">
+                            <button type="button" class="button-outside">Restaurant</button>
+                        </div>
                     </a>
                 </div>
 
             </div>
 
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings">
+                <img class="background-image-settings" id="portfolio-2-background-img" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
 
+                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="800">
+                    <a href="http://progymfitness.brilliantwebdesign.co.uk/">
+                        <div class="portfolio-margin-top">
+                            <img class="portfolio-image" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
+                            <button type="button" class="button-outside">Gym Home</button>
+                        </div>
+
+                    </a>
+                </div>
+
+            </div>
         </div>
 
     </section>

@@ -7,39 +7,62 @@
     height: 550px;
 }
 
+.your-element {
+    height: 550px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.portfolio-margin-top {
+    padding-top: 10%;
+}
+
+
 
 .portfolio-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
-    margin-top: 10%;
+    border-radius: 4%;
 }
 
+.background-image-settings {
+    position: absolute;
+    z-index: -1;
+    opacity: 0.3;
+    padding-top: 0;
+}
 
 #portfolio-1-background-img {
     left: 0;
-    padding-top: 0;
-    position: absolute;
     width: 50%;
-    z-index: -1;
-    opacity: 0.5;
 }
 
 #portfolio-2-background-img {
     left: 50%;
     right: 0;
-    padding-top: 0;
-    position: absolute;
     width: 50%;
-    z-index: -1;
-    opacity: 0.5;
 }
 
 @media (min-width: 10px) and (max-width: 991px) {
     .portfolio-div-settings {
         height: 100%;
     }
+
+    .your-element {
+        height: 100%;
+    }
+
+    .portfolio-margin-top {
+        padding-top: 0%;
+    }
+
+    .portfolio-image {
+        padding-top: 10%;
+        padding-bottom: 10%;
+    }
+
 
     #portfolio-1-background-img {
         width: 100%;
@@ -50,9 +73,5 @@
     #portfolio-2-background-img {
         left: 0;
         width: 100%;
-    }
-
-    .portfolio-image {
-        margin-top: 20%;
     }
 }
