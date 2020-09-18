@@ -80,10 +80,10 @@ a:hover {
     transition: 1s;
     position: fixed;
     z-index: 1;
+    height: 110px;
     width: 100%;
     font-family: 'Courgette', cursive;
     color: white;
-    height: 110px;
     font-size: 55px;
     padding-top: 2vh;
     padding-left: 12.5%;
@@ -93,7 +93,7 @@ a:hover {
 }
 
 #brand-text {
-    transition: 4s;
+    transition: 1s;
 }
 
 #brand a:any-link {

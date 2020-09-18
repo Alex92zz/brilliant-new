@@ -86,7 +86,7 @@
 
     <!-- Header Start --->
     <header id="particles-js" itemscope itemtype="http://schema.org/LocalBusiness">
-        <h2 id="brand" class="">
+        <h2 id="brand">
             <!-- rotating-diamond.css --->
             <div class="wrap rotor-x">
                 <div class="wrap rotor-y">
