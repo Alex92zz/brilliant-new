@@ -60,10 +60,9 @@
     <!-- 6. responsive web design --->
     <link rel="stylesheet" href="6.responsive-web-design/responsive-web-design.css">
 
-    <!-- 7. price table --->
+    <!-- 7. priceing --->
     <link rel="stylesheet" href="7.price-section/price.css">
-    <link rel="stylesheet" href="7.price-section/table.css">
-    <link rel="stylesheet" href="7.1pricing/pricing.css">
+    <link rel="stylesheet" href="7.price-section/before-pricing.css">
 
     <!-- 8. footer --->
     <link rel="stylesheet" href="8.footer/footer.css">
@@ -288,7 +287,7 @@
             <h2>PORTFOLIO</h2>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-1">
 
-                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="600">
+                <div class="your-element" data-tilt data-tilt-max="23" data-tilt-perspective="600">
                     <a href="http://thethreecooks.brilliantwebdesign.co.uk/">
                         <div class="portfolio-margin-top">
                             <img class="portfolio-image" src="5.portfolio/the-three-cooks-3-2-main.jpg">
@@ -301,7 +300,7 @@
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-2">
 
-                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="600">
+                <div class="your-element" data-tilt data-tilt-max="23" data-tilt-perspective="600">
                     <a href="http://progymfitness.brilliantwebdesign.co.uk/">
                         <div class="portfolio-margin-top">
                             <img class="portfolio-image" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
@@ -318,7 +317,7 @@
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-1">
 
-                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="600">
+                <div class="your-element" data-tilt data-tilt-max="23" data-tilt-perspective="600">
                     <a href="https://harvardqms.co.uk/">
                         <div class="portfolio-margin-top">
                             <img class="portfolio-image" src="5.portfolio/harvard-qms.jpg">
@@ -329,10 +328,10 @@
 
             </div>
 
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-4">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-2">
 
 
-                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="600">
+                <div class="your-element" data-tilt data-tilt-max="23" data-tilt-perspective="600" data-tilt->
                     <a href="https://vergeapp.brilliantwebdesign.co.uk/">
                         <div class="portfolio-margin-top">
                             <img class="portfolio-image" src="5.portfolio/verge-watch-3-2-main.jpg">
@@ -373,265 +372,87 @@
     </section>
 
 
+    <div class="row">
 
-    <div class="row pricing-section" id="pricing">
+        <div class="before-pricing">
 
-        <div class="card-pricing col-xs-12 col-sm-12 col-md-12 col-lg-6">
-            <!-- Card-->
-            <div class="card">
-                <div class="card-body">
-                    <div class="card-title">STARTER</div>
-                    <div class="card-subtitle">Just to see what can be achieved</div>
-                    <hr class="cell-divide-hr">
-                    <div class="price">
-                        <span class="currency">$</span><span class="value">199</span>
-                        <div class="frequency">monthly</div>
-                    </div>
-                    <hr class="cell-divide-hr">
-                    <ul class="list-unstyled li-space-lg">
-                        <li class="media">
-                            <i class="fas fa-check"></i>
-                            <div class="media-body">Improve Your Email Marketing</div>
-                        </li>
-                        <li class="media">
-                            <i class="fas fa-check"></i>
-                            <div class="media-body">User And Admin Rights Control</div>
-                        </li>
-                        <li class="media">
-                            <i class="fas fa-times"></i>
-                            <div class="media-body">List Building And Cleaning</div>
-                        </li>
-                        <li class="media">
-                            <i class="fas fa-times"></i>
-                            <div class="media-body">Collected Data Management</div>
-                        </li>
-                        <li class="media">
-                            <i class="fas fa-times"></i>
-                            <div class="media-body">More Planning And Evaluation</div>
-                        </li>
-                    </ul>
-                    <div class="button-wrapper">
-                        <a class="btn-solid-reg page-scroll" href="#request">REQUEST</a>
-                    </div>
+            <div class="backgrounds">
+                <div class="background layer-3">
+                    <div class="head"></div>
                 </div>
-            </div> <!-- end of card -->
-            <!-- end of card -->
+                <div class="background layer-2">
+                    <div class="head"></div>
+                </div>
+                <div class="background layer-1">
+                    <div class="head"></div>
+                </div>
+            </div>
         </div>
-        <div class="card-pricing col-xs-12 col-sm-12 col-md-12 col-lg-6"></div>
-        <div class="card-pricing col-xs-12 col-sm-12 col-md-12 col-lg-6"></div>
-
+    </div>
+    <div class="row" id="pricing">
+        <div class="container group">
+            <div class="grid-1-5">
+                <h2>Basic</h2>
+                <h3><span class="uppercase">Free</span></h3>
+                <p>10,000 monthly visits</p>
+                <ul>
+                    <li>Limited Email Support</li>
+                    <li>Unlimited Data Transfer</li>
+                    <li>10GB Local Storage</li>
+                </ul>
+                <a href="" class="button-pricing">Sign Up</a>
+            </div>
+            <div class="grid-1-5">
+                <h2>Startup</h2>
+                <h3><sup>$</sup>79<span class="small">/mo</span></h3>
+                <p>25,000 monthly visits</p>
+                <ul>
+                    <li>Limited Email Support</li>
+                    <li>Unlimited Data Transfer</li>
+                    <li>20GB Local Storage</li>
+                </ul>
+                <a href="" class="button-pricing">Sign Up</a>
+            </div>
+            <div class="grid-1-5">
+                <h2>Growth</h2>
+                <h3><sup>$</sup>179<span class="small">/mo</span></h3>
+                <p>75,000 monthly visits</p>
+                <ul>
+                    <li>Email Support</li>
+                    <li>Unlimited Data Transfer</li>
+                    <li>30GB Local Storage</li>
+                </ul>
+                <a href="" class="button-pricing">Sign Up</a>
+            </div>
+            <div class="grid-1-5">
+                <h2>Premium</h2>
+                <h3><sup>$</sup>499<span class="small">/mo</span></h3>
+                <p>225,000 monthly visits</p>
+                <ul>
+                    <li>Email Support</li>
+                    <li>Phone Support</li>
+                    <li>Unlimited Data Transfer</li>
+                </ul>
+                <a href="" class="button-pricing">Sign Up</a>
+            </div>
+            <div class="grid-1-5">
+                <h2>Enterprise</h2>
+                <h3><span class="uppercase">Let's Talk</span></h3>
+                <p>1M+ monthly visits</p>
+                <ul>
+                    <li>Email Support</li>
+                    <li>Phone Support</li>
+                    <li>Dedicated Environment</li>
+                    <li>Customized Plan</li>
+                </ul>
+                <a href="" class="button-pricing">Sign Up</a>
+            </div>
+        </div>
     </div>
 
 
 
 
-
-
-
-
-
-
-    <div id="web-design-cost">
-        <section id="table-big-screen">
-            <div class="container">
-                <table>
-                    <thead>
-                        <tr>
-                            <th></th>
-                            <th><span class="title">AFFORDABLE</span>
-                                <p class="title-text"><em>Perfect for small size businesses</em></p>
-                                <br>
-                                <span class="price"> &pound;300</span>
-                            </th>
-                            <th><span class="title">STANDARD</span>
-                                <p class="title-text"><em>Perfect for medium size businesses</em></p>
-                                <br>
-                                <span class="price"> &pound;500</span>
-                            </th>
-                            <th><span class="title">PREMIUM</span>
-                                <p class="title-text"><em>Perfect for established businesses</em></p>
-                                <br>
-                                <span class="price"> &pound;800</span>
-                            </th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Pages</td>
-                            <td>1</td>
-                            <td>Up to 5 pages</td>
-                            <td>Up to 10 pages</td>
-                        </tr>
-                        <tr>
-                            <td>Domain Name</td>
-                            <td><span class="check">&#10004;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                        <tr>
-                            <td>Mobile Responsive</td>
-                            <td><span class="check">&#10004;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                        <tr>
-                            <td>Optimisation for Search Engines</td>
-                            <td>Basic</td>
-                            <td>Enhanced</td>
-                            <td>Premium</td>
-                        </tr>
-                        <tr>
-                            <td>Page submission to Google &amp; Bing</td>
-                            <td><span class="check">&#10004;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                        <tr>
-                            <td>Hosting</td>
-                            <td>£100</td>
-                            <td><span class="check">&#10004;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                        <tr>
-                            <td>SSL Certificate</td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                        <tr>
-                            <td>Business Email</td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                        <tr>
-                            <td>Google Analytics</td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                        <tr>
-                            <td>Digital Visibility</td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                        <tr>
-                            <td>85% On-page SEO Guaranteed</td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                        <tr>
-                            <td>0.10s website speed Guaranteed</td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                        <tr>
-                            <td>Secure Online Enquiry Form</td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                        <tr>
-                            <td>Animations</td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="multiplication">&#10008;</span></td>
-                            <td><span class="check">&#10004;</span></td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </section>
-        <section id="web-design-price-small-screen">
-
-            <div class="planContainer">
-                <div class="plan module">
-                    <div class="titleContainer">
-                        <div class="title">AFFORDABLE</div>
-                    </div>
-                    <div class="infoContainer">
-                        <div class="price">
-                            <p>£300</p>
-                        </div>
-                        <div class="p desc"><em>Our Starter package is perfect for
-                                individuals &amp; small businesses that
-                                are just starting out. This package is
-                                ideal for those who want to promote
-                                their services online while keeping
-                                their costs to a minimum.</em></div>
-                        <ul class="features">
-                            <li><strong>1 Page</strong> </li>
-                            <li><strong>FREE Domain Name</strong> </li>
-                            <li><strong>Mobile Responsive</strong> </li>
-                            <li><strong>Basic optimisation for Search Engines</strong> </li>
-                            <li><strong>Submission to Google and Bing</strong></li>
-
-                        </ul><a class="selectPlan" href="tel:07794922161">Call us</a>
-                    </div>
-                </div>
-                <div class="plan module">
-                    <div class="titleContainer">
-                        <div class="title">STANDARD</div>
-                    </div>
-                    <div class="infoContainer">
-                        <div class="price">
-                            <p>£500 </p>
-                        </div>
-                        <div class="p desc"><em>Our Standard package is perfect for
-                                medium size businesses that
-                                that are established and want a decent
-                                web presence while not breaking the bank.</em></div>
-                        <ul class="features">
-                            <li><strong>Up to 5 pages</strong> </li>
-                            <li><strong>12 months hosting included</strong> </li>
-                            <li><strong>Free SSL Certificate</strong> </li>
-                            <li><strong>Free Domain Name</strong> </li>
-                            <li><strong>Free Business Email</strong> </li>
-                            <li><strong>Google Analytics Integrated</strong> </li>
-                            <li><strong>Mobile Responsive</strong> </li>
-                            <li><strong>Enhanced optimisation for Search Engines</strong> </li>
-                            <li><strong>Page submission to Google and Bing</strong></li>
-
-                        </ul><a class="selectPlan" href="tel:07794922161">Call us</a>
-                    </div>
-                </div>
-                <div class="plan module">
-                    <div class="titleContainer">
-                        <div class="title">PREMIUM</div>
-                    </div>
-                    <div class="infoContainer">
-                        <div class="price">
-                            <p>£800</p>
-                        </div>
-                        <div class="p desc"><em>Our Premium package is perfect for
-                                medium &amp; large size businesses that
-                                want to stand out. This package not only will improve the quality
-                                of your website but will also give your SEO a huge boost. </em></div>
-                        <ul class="features">
-                            <li><strong>Up to 10 pages</strong> </li>
-                            <li><strong>12 months hosting included</strong> </li>
-                            <li><strong>Free SSL Certificate</strong> </li>
-                            <li><strong>Free Domain Name</strong> </li>
-                            <li><strong>Free Business Email</strong> </li>
-                            <li><strong>Google Analytics Integrated</strong> </li>
-                            <li><strong>Mobile Responsive</strong> </li>
-                            <li><strong>Brilliant optimisation for Search Engines</strong> </li>
-                            <li><strong>Page submission to Google and Bing</strong></li>
-                            <li><strong>Digital Visibility</strong></li>
-                            <li><strong>85% On-page SEO Guaranteed</strong></li>
-                            <li><strong>0.10s website speed Guaranteed</strong></li>
-                            <li><strong>Animations </strong></li>
-                            <li><strong>Secure Online Enquiry Form</strong></li>
-
-
-                        </ul><a class="selectPlan" href="tel:07794922161">Call us</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
 
 
     <!-- FOOTER START also see footer.css --->
