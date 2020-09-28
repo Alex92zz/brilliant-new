@@ -7,6 +7,13 @@
     height: 100%;
 }
 
+#portfolio h2 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+    text-shadow: 1px 6px 5px #aba8a8;
+}
+
 .your-element {
     height: 100%;
     width: 100%;
@@ -15,22 +22,27 @@
 }
 
 .portfolio-margin-top {
-    padding-top: 10%;
+    padding-top: 14%;
+    padding-bottom: 4%;
 
 }
 
-#portfolio-second-row {
-    margin-top: -90px;
+.portfolio-div-1 {
+    background-image: url(images/background-2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
-
+.portfolio-div-1:hover {}
 
 .portfolio-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 60%;
     border-radius: 4%;
+    box-shadow: 20px 34px 25px rgba(0, 0, 0, 0.2);
+    border: 0.5px grey solid;
 }
 
 .background-image-settings {

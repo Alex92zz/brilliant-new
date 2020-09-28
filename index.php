@@ -282,12 +282,13 @@
 
 
     <!-- portfolio.css --->
+
     <section id="portfolio">
         <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings">
-                <img class="background-image-settings" id="portfolio-1-background-img" src="5.portfolio/the-three-cooks-3-2-main.jpg">
+            <h2>PORTFOLIO</h2>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-1">
 
-                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="800">
+                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="600">
                     <a href="http://thethreecooks.brilliantwebdesign.co.uk/">
                         <div class="portfolio-margin-top">
                             <img class="portfolio-image" src="5.portfolio/the-three-cooks-3-2-main.jpg">
@@ -298,10 +299,9 @@
 
             </div>
 
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings">
-                <img class="background-image-settings" id="portfolio-2-background-img" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-2">
 
-                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="800">
+                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="600">
                     <a href="http://progymfitness.brilliantwebdesign.co.uk/">
                         <div class="portfolio-margin-top">
                             <img class="portfolio-image" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
@@ -316,26 +316,24 @@
 
         <div class="row" id="portfolio-second-row">
 
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-1">
 
-                <img class="background-image-settings" id="portfolio-1-background-img" src="5.portfolio/the-three-cooks-3-2-main.jpg">
-
-                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="800">
+                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="600">
                     <a href="https://harvardqms.co.uk/">
                         <div class="portfolio-margin-top">
                             <img class="portfolio-image" src="5.portfolio/harvard-qms.jpg">
-                            <button type="button" class="button-outside">Harvard QMS</button>
+                            <button class="button-outside" type="button">Harvard QMS</button>
                         </div>
                     </a>
                 </div>
 
             </div>
 
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings">
-                <img class="background-image-settings" id="portfolio-2-background-img" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-4">
 
-                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="800">
-                    <a href="http://progymfitness.brilliantwebdesign.co.uk/">
+
+                <div class="your-element" data-tilt data-tilt-max="20" data-tilt-perspective="600">
+                    <a href="https://vergeapp.brilliantwebdesign.co.uk/">
                         <div class="portfolio-margin-top">
                             <img class="portfolio-image" src="5.portfolio/verge-watch-3-2-main.jpg">
                             <button type="button" class="button-outside">Verge Watch</button>
@@ -343,7 +341,6 @@
 
                     </a>
                 </div>
-
             </div>
         </div>
 
