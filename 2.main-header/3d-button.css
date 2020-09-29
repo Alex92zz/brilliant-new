@@ -13,15 +13,12 @@ figure div {
     height: 100%;
     transform-style: preserve-3d;
     -webkit-transform-style: preserve-3d;
-    transition: 0.4s;
-    -webkit-transition: 0.4s;
+    transition: 0.2s;
+    -webkit-transition: 0.2s;
 }
 
 figure:hover div {
     transform: rotateX(90deg);
-    ;
-    ;
-    ;
 }
 
 figure div span {

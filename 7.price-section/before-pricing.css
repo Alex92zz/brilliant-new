@@ -41,13 +41,13 @@
 
 .before-pricing .backgrounds .background.layer-1 {
     height: 30px;
-    background-color: #F69899;
+    background-color: #5d4e65;
     -webkit-animation-delay: -1s;
     animation-delay: -1s;
 }
 
 .before-pricing .backgrounds .background.layer-1 .head {
-    background: url(https://i.koya.io/grapefruitwave_1.svg);
+    background: url(grapefruitwave_1.svg);
 }
 
 .before-pricing .backgrounds .strawimage {

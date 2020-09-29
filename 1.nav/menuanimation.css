@@ -11,12 +11,13 @@
     transition: all 0.9s ease-in-out;
 }
 
-@media (min-width: 10px) and (max-width: 866px) {
+@media (min-width: 10px) and (max-width: 750px) {
     .wrapper {
-        width: 100px;
-        height: 100px;
-        right: -30px;
+        width: 50px;
+        height: 50px;
+        right: 20px;
         top: 0px;
+        transform: scale3d(0.9, 0.9, 0.9);
     }
 }
 

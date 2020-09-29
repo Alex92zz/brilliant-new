@@ -264,7 +264,7 @@
                 <div id="section2-box">
                     <div class="paragraph">
                         <h3>Your local web design company!</h3>
-                        <span id="typer-text" class="txt-type module" data-wait="2500" data-words='[ " Free business email!", "Free SSL Certificate!", "Google analytics!", "On-page SEO optimised!", "Social media API!", "Mobile responsive!","Fast UK hosting!"]'></span>
+                        <span id="typer-text" class="txt-type module" data-wait="2500" data-words='[ " Free business email!", "Free SSL Certificate!", "Google analytics!", "SEO optimised!", "Social media API!", "Mobile responsive!","Fast UK hosting!"]'></span>
                         <p class="section2-p">At Brilliant Web Design our passion is to provide innovative, highly functional, visually appealing and feature-rich website designs.</p>
                         <p class="section2-p">We are a Halesowen website design company specialising in hand coded websites using today's modern technologies to achieve brilliant on page SEO and website speeds less than 0.10s.</p>
                         <p class="section2-p">We don't just take your order and modify a theme to build your website. We are professional website designers and website developers who take the time to get to know you and your business needs to build you a unique website that will resonate with your clients and drive business growth. </p>
@@ -285,6 +285,7 @@
     <section id="portfolio">
         <div class="row">
             <h2>PORTFOLIO</h2>
+            <h3>We enjoy making you look good!</h3>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-1">
 
                 <div class="your-element" data-tilt data-tilt-max="23" data-tilt-perspective="600">
