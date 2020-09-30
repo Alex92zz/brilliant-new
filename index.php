@@ -275,182 +275,18 @@
 
     </section>
 
-    <!-- portfolio start portfolio.css  doesn't work yet
-    < ? php include '5.portfolio/portfolio.php';?>
- portfolio end portfolio.css --->
-
-
     <!-- portfolio.css --->
-
-    <section id="portfolio">
-        <div class="row">
-            <h2>PORTFOLIO</h2>
-            <h3>We enjoy making you look good!</h3>
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-1">
-
-                <div class="your-element" data-tilt data-tilt-max="23" data-tilt-perspective="600">
-                    <a href="http://thethreecooks.brilliantwebdesign.co.uk/">
-                        <div class="portfolio-margin-top">
-                            <img class="portfolio-image" src="5.portfolio/the-three-cooks-3-2-main.jpg">
-                            <button type="button" class="button-outside">Restaurant</button>
-                        </div>
-                    </a>
-                </div>
-
-            </div>
-
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-2">
-
-                <div class="your-element" data-tilt data-tilt-max="23" data-tilt-perspective="600">
-                    <a href="http://progymfitness.brilliantwebdesign.co.uk/">
-                        <div class="portfolio-margin-top">
-                            <img class="portfolio-image" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
-                            <button type="button" class="button-outside">Gym Home</button>
-                        </div>
-
-                    </a>
-                </div>
-
-            </div>
-        </div>
-
-        <div class="row" id="portfolio-second-row">
-
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-1">
-
-                <div class="your-element" data-tilt data-tilt-max="23" data-tilt-perspective="600">
-                    <a href="https://harvardqms.co.uk/">
-                        <div class="portfolio-margin-top">
-                            <img class="portfolio-image" src="5.portfolio/harvard-qms.jpg">
-                            <button class="button-outside" type="button">Harvard QMS</button>
-                        </div>
-                    </a>
-                </div>
-
-            </div>
-
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 portfolio-div-settings portfolio-div-2">
-
-
-                <div class="your-element" data-tilt data-tilt-max="23" data-tilt-perspective="600" data-tilt->
-                    <a href="https://vergeapp.brilliantwebdesign.co.uk/">
-                        <div class="portfolio-margin-top">
-                            <img class="portfolio-image" src="5.portfolio/verge-watch-3-2-main.jpg">
-                            <button type="button" class="button-outside">Verge Watch</button>
-                        </div>
-
-                    </a>
-                </div>
-            </div>
-        </div>
-
-    </section>
+    <?php include '5.portfolio/portfolio.php'; ?>
 
 
 
-    <section id="responsive-web-design">
-        <div class="row">
-
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-                <div class="paragraph">
-                    <h2 class="module">Responsive Web Design as a Necessity</h2>
-                    <img class="lazy module your-element" src="images/section4/untitled.jpg" data-src="images/section4/responsivedesign.png" data-srcset="images/section4/responsivedesign.png" width="100%" alt="Website design Halesowen" loading="lazy" data-tilt>
-                    <p class="paragraph-space module">It’s not just about mobile search ranking. Responsive website design is vital in presenting a consistent brand image across all devices. Web presence, after all, means nothing if the said presence doesn’t provide positive experiences for the target audience.</p>
-                    <p class="paragraph-space module">Responsive web design enables your website layout to adapt to even the largest or smallest screens. This adaptive technology is forward-compatible, adjusting even to newer devices and higher resolutions.</p>
-                    <p class="paragraph-space module">Mobile-friendliness is an important design consideration that often gets overlooked or glossed-over during website creation or redesign. It’s a requirement for some, for others just another feature in the design package. Either way, responsive website design has a huge impact on the overall performance of not only your website but also your marketing strategies.</p>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-                <div class="paragraph" id="seo">
-                    <h2 class="module">SEARCH ENGINE OPTIMIZATION (SEO)</h2>
-                    <img class="lazy module your-element" src="images/section4/untitled.jpg" data-src="images/section4/seo.png" data-srcset="images/section4/seo.png" width="100%" alt="Website design Halesowen" loading="lazy" data-tilt>
-                    <p class="paragraph-space module">SEO has many facets. It’s not as simple as researching high-value keywords. </p>
-                    <p class="paragraph-space module">On-page SEO is an umbrella term covering all on-page ranking factors that determine the ranking performance of a webpage for a specific keyword – different pages target different keywords. On-page SEO has one key difference from off-page SEO: you have direct control over its performance. Off-page or off-site mainly involves link building and other tactics that don’t involve optimization within the website itself.</p>
-                    <p class="paragraph-space module">Google has indicated site speed is one of the signals used by its algorithm to rank pages. A slow page speed will not only affect your indexation on search engines but will also deter would be clients with low internet speed from your website and create a bad user experience.</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    <!-- responsive-web-design.css --->
+    <?php include '6.responsive-web-design/responsive-web-design.php'; ?>
 
 
-    <div class="row">
 
-        <div class="before-pricing">
-
-            <div class="backgrounds">
-                <div class="background layer-3">
-                    <div class="head"></div>
-                </div>
-                <div class="background layer-2">
-                    <div class="head"></div>
-                </div>
-                <div class="background layer-1">
-                    <div class="head"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="row" id="pricing">
-        <div class="container group">
-            <div class="grid-1-5">
-                <h2>Basic</h2>
-                <h3><span class="uppercase">Free</span></h3>
-                <p>10,000 monthly visits</p>
-                <ul>
-                    <li>Limited Email Support</li>
-                    <li>Unlimited Data Transfer</li>
-                    <li>10GB Local Storage</li>
-                </ul>
-                <a href="" class="button-pricing">Sign Up</a>
-            </div>
-            <div class="grid-1-5">
-                <h2>Startup</h2>
-                <h3><sup>$</sup>79<span class="small">/mo</span></h3>
-                <p>25,000 monthly visits</p>
-                <ul>
-                    <li>Limited Email Support</li>
-                    <li>Unlimited Data Transfer</li>
-                    <li>20GB Local Storage</li>
-                </ul>
-                <a href="" class="button-pricing">Sign Up</a>
-            </div>
-            <div class="grid-1-5">
-                <h2>Growth</h2>
-                <h3><sup>$</sup>179<span class="small">/mo</span></h3>
-                <p>75,000 monthly visits</p>
-                <ul>
-                    <li>Email Support</li>
-                    <li>Unlimited Data Transfer</li>
-                    <li>30GB Local Storage</li>
-                </ul>
-                <a href="" class="button-pricing">Sign Up</a>
-            </div>
-            <div class="grid-1-5">
-                <h2>Premium</h2>
-                <h3><sup>$</sup>499<span class="small">/mo</span></h3>
-                <p>225,000 monthly visits</p>
-                <ul>
-                    <li>Email Support</li>
-                    <li>Phone Support</li>
-                    <li>Unlimited Data Transfer</li>
-                </ul>
-                <a href="" class="button-pricing">Sign Up</a>
-            </div>
-            <div class="grid-1-5">
-                <h2>Enterprise</h2>
-                <h3><span class="uppercase">Let's Talk</span></h3>
-                <p>1M+ monthly visits</p>
-                <ul>
-                    <li>Email Support</li>
-                    <li>Phone Support</li>
-                    <li>Dedicated Environment</li>
-                    <li>Customized Plan</li>
-                </ul>
-                <a href="" class="button-pricing">Sign Up</a>
-            </div>
-        </div>
-    </div>
-
+    <!-- price.css --->
+    <?php include '7.price-section/pricing.php'; ?>
 
 
 

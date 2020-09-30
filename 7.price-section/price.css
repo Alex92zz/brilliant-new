@@ -7,7 +7,6 @@
     background-repeat: no-repeat;
     *zoom: 1;
     filter: progid:DXImageTransform.Microsoft.gradient(gradientType=1, startColorstr='#FF53455B', endColorstr='#FF201E22');
-    background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHJhZGlhbEdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjAlIiByPSI3MCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM1MzQ1NWIiLz48c3RvcCBvZmZzZXQ9IjcwJSIgc3RvcC1jb2xvcj0iIzIwMWUyMiIvPjwvcmFkaWFsR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
     background-size: 100%;
     background-image: -moz-radial-gradient(top, circle, #53455b 0%, #201e22 70%);
     background-image: -webkit-radial-gradient(top, circle, #53455b 0%, #201e22 70%);
@@ -35,6 +34,7 @@
 
 .grid-1-5 {
     border: 2px solid #5d4e65;
+    margin: 4px;
     min-height: 400px;
     padding: 1.25em;
     position: relative;
@@ -69,7 +69,7 @@
 
 @media screen and (min-width: 1120px) {
     .grid-1-5 {
-        width: 20%;
+        width: 19%;
     }
 
     .grid-1-5:nth-child(odd),
@@ -92,7 +92,7 @@
     border-bottom: 2px solid #ff4f69;
     box-shadow: 0px 0px 10px 0px #323232;
     transform: scale(1.025);
-    z-index: 2;
+    z-index: auto;
 }
 
 .grid-1-5:hover:before,

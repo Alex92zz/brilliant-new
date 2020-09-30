@@ -1,5 +1,5 @@
 .before-pricing {
-    margin-bottom: 100px;
+    margin-bottom: 10px;
 }
 
 .before-pricing .backgrounds .background {
@@ -20,28 +20,28 @@
 }
 
 .before-pricing .backgrounds .background.layer-3 {
-    background-color: #FAF0F0;
+    background-color: #9d8ba7;
 }
 
 .before-pricing .backgrounds .background.layer-3 .head {
-    background: url(https://i.koya.io/grapefruitwave_3.svg);
-    background-position: -60px 0px;
+    background: url('grapefruitwave_3.svg');
+    background-position: -60px 20px;
 }
 
 .before-pricing .backgrounds .background.layer-2 {
-    background-color: #FBD7D7;
+    background-color: #5d4d66;
     -webkit-animation-delay: -0.5s;
     animation-delay: -0.5s;
 }
 
 .before-pricing .backgrounds .background.layer-2 .head {
-    background: url(https://i.koya.io/grapefruitwave_2.svg);
-    background-position: -40px 0px;
+    background: url('grapefruitwave_2.svg');
+    background-position: -30px 100px;
 }
 
 .before-pricing .backgrounds .background.layer-1 {
-    height: 30px;
-    background-color: #5d4e65;
+    height: 50px;
+    background-color: #423749;
     -webkit-animation-delay: -1s;
     animation-delay: -1s;
 }
