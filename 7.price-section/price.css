@@ -45,26 +45,25 @@
 @media screen and (min-width: 700px) {
     .grid-1-5 {
         float: left;
-        width: 50%;
+        width: 48%;
     }
 
     .grid-1-5:nth-child(odd) {
         clear: left;
     }
+
 }
 
 @media screen and (min-width: 800px) {
     .grid-1-5 {
-        width: 33.3333333%;
+        width: 48%;
     }
 
-    .grid-1-5:nth-child(3n+1) {
-        clear: left;
-    }
 
     .grid-1-5:nth-child(odd) {
         clear: none;
     }
+
 }
 
 @media screen and (min-width: 1120px) {
