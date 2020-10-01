@@ -258,7 +258,8 @@
     <section id="your-local-design-company-section">
         <div class="row container">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 module">
-                <img class="lazy responsive" src="images/section4/untitled.jpg" data-src="images/section2/webdesign3.jpg" data-srcset="images/section2/webdesign3.jpg" alt="Website design Halesowen" loading="lazy">
+                <img class="lazy responsive" id="local-web-design-image-pc" src="images/section4/untitled.jpg" data-src="images/section2/table-laptop.jpg" data-srcset="images/section2/table-laptop.jpg" alt="Website design Halesowen" loading="lazy">
+                <img class="lazy responsive" id="local-web-design-image-mobile" src="images/section4/untitled.jpg" data-src="images/section2/table-laptop-mobile.jpg" data-srcset="images/section2/table-laptop-mobile.jpg" alt="Website design Halesowen" loading="lazy">
             </div>
             <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-7">
                 <div id="section2-box">

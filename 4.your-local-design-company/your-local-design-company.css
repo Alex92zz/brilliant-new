@@ -15,6 +15,27 @@ h4 {
 
 #your-local-design-company-section img {
     background-color: rgb(218, 229, 231);
+    border-radius: 2%;
+}
+
+@media (min-width: 10px) and (max-width: 991px) {
+    #local-web-design-image-pc {
+        display: none;
+    }
+
+    #local-web-design-image-mobile {
+        display: block;
+    }
+}
+
+@media (min-width: 992px) {
+    #local-web-design-image-pc {
+        display: block;
+    }
+
+    #local-web-design-image-mobile {
+        display: none;
+    }
 }
 
 #typer-text {

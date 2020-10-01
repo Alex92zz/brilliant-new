@@ -54,14 +54,16 @@
 
 }
 
+@media screen and (min-width: 700px) and (max-width:1120px) {
+    .grid-1-5:last-child {
+        float: none;
+        margin: 0 auto;
+    }
+}
+
 @media screen and (min-width: 800px) {
     .grid-1-5 {
         width: 48%;
-    }
-
-
-    .grid-1-5:nth-child(odd) {
-        clear: none;
     }
 
 }
