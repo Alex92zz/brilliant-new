@@ -31,17 +31,13 @@
     <link rel="stylesheet" href="0.global-styles/grid.css">
     <link rel="stylesheet" href="0.global-styles/style.css">
     <link rel="stylesheet" href="0.global-styles/scrollbar.css">
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-
-
 
     <!-- 1. nav --->
     <link rel="stylesheet" href="1.nav/animated-square.css">
+    <link rel="stylesheet" href="1.nav/rotating-diamond.css">
     <link rel="stylesheet" href="1.nav/menuanimation.css">
     <link rel="stylesheet" href="1.nav/nav-overlay.css">
-    <link rel="stylesheet" href="1.nav/rotating-diamond.css">
     <link rel="stylesheet" href="1.nav/social.css">
-
 
     <!-- 2. main header--->
     <link rel="stylesheet" href="2.main-header/3d-button.css">
@@ -62,7 +58,6 @@
 
     <!-- 7. priceing --->
     <link rel="stylesheet" href="7.price-section/price.css">
-    <link rel="stylesheet" href="7.price-section/before-pricing.css">
 
     <!-- 8. footer --->
     <link rel="stylesheet" href="8.footer/footer.css">
@@ -303,7 +298,6 @@
     <script src="https://kit.fontawesome.com/81c8c4b1b0.js" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script type="text/javascript" src="0.global-styles/lazyload.js"></script>
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <!-- 1. nav --->
     <script src="1.nav/animated-square.js"></script>
@@ -311,9 +305,7 @@
     <script src="1.nav/nav.js"></script>
     <script src="1.nav/nav-resize-on-scroll.js"></script>
 
-    <!-- need to be fixed to make it work
-    <script src="1.nav/nav-resize-on-scroll.js"></script>
--->
+
     <!-- Script for Overlay Change Button -->
     <script>
         function navChange() {
@@ -341,7 +333,6 @@
     <!-- 6. responsive web design --->
     <!-- 7. price table --->
     <!-- 8. footer --->
-
 
 
 

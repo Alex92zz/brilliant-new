@@ -9,13 +9,15 @@ echo '
     
                         <li class="nav__list-item"><a href="#particles-js" class="hover-target" onclick="navChange()">home</a></li>
     
-                        <li class="nav__list-item"><a href="#your-local-design-company-section" class="hover-target" onclick="navChange()">about us</a></li>
-    
                         <li class="nav__list-item"><a href="#what-we-offer" class="hover-target" onclick="navChange()">services</a></li>
+                        
+                        <li class="nav__list-item"><a href="#your-local-design-company-section" class="hover-target" onclick="navChange()">about us</a></li>
+                                                
+                        <li class="nav__list-item"><a href="#portfolio" class="hover-target" onclick="navChange()">portfolio</a></li>
     
                         <li class="nav__list-item"><a href="#what-we-offer" class="hover-target" onclick="navChange()">responsive</a></li>
     
-                        <li class="nav__list-item"><a href="#web-design-cost" class="hover-target" onclick="navChange()">prices</a></li>
+                        <li class="nav__list-item"><a href="#pricing" class="hover-target" onclick="navChange()">prices</a></li>
 
 
 

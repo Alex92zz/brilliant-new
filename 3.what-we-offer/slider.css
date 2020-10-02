@@ -26,14 +26,8 @@
     font-family: sans-serif;
     font-weight: 400;
 
-    background: #12c2e9;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #23d5ab, #3494E6, #23d5ab);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #23d5ab, #3494E6, #23d5ab);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
+    background-color: #FBDA61;
+    background: -webkit-linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
 
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
