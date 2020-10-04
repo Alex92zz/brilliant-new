@@ -53,6 +53,7 @@
 @media (min-width: 991px) {
     .portfolio-image {
         width: 60%;
+        max-width: 500px;
     }
 }
 
