@@ -44,16 +44,48 @@
 }
 
 
-@media (min-width: 10px) and (max-width: 991px) {
+@media (min-width: 10px) and (max-width: 500px) {
+    .portfolio-image {
+        width: 90%;
+    }
+
+    .your-element {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+}
+
+@media (min-width: 500px) and (max-width: 750px) {
     .portfolio-image {
         width: 70%;
     }
+
+    .your-element {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
 }
 
-@media (min-width: 991px) {
+@media (min-width: 751px) and (max-width: 991px) {
     .portfolio-image {
         width: 60%;
-        max-width: 500px;
+    }
+
+    .your-element {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+}
+
+
+
+@media (min-width: 992px) {
+    .portfolio-image {
+        width: 60%;
+        max-width: 420px;
     }
 }
 

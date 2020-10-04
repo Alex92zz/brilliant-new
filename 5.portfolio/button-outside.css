@@ -9,50 +9,169 @@
     box-shadow: 0px 14px 10px rgba(0, 0, 0, 0.1);
     border-radius: 4px;
     padding: 8px 18px;
-    left: 68%;
-    top: -100px;
 }
 
 @media (min-width: 10px) and (max-width: 350px) {
 
     .button-outside {
-        left: 65%;
+        left: 64%;
+        font-size: 12px;
+        padding: 6px 10px;
+        top: -60px;
     }
 }
 
-@media (min-width: 351px) and (max-width: 400px) {
+@media (min-width: 351px) and (max-width: 500px) {
 
     .button-outside {
         left: 67%;
+        font-size: 15px;
+        padding: 8px 14px;
+        top: -60px;
     }
 }
 
-@media (min-width: 400px) and (max-width: 650px) {
+
+@media (min-width: 500px) and (max-width: 650px) {
 
     .button-outside {
-        left: 70%;
+        left: 67%;
+        font-size: 15px;
+        padding: 8px 14px;
+        top: -60px;
     }
 }
 
-@media (min-width: 651px) and (max-width: 766px) {
+@media (min-width: 651px) and (max-width: 750px) {
 
     .button-outside {
-        left: 75%;
+        left: 72%;
+        font-size: 15px;
+        padding: 8px 14px;
+        top: -80px;
     }
 }
 
-@media (min-width: 992px) {
+
+
+@media (min-width: 751px) and (max-width: 850px) {
 
     .button-outside {
-        left: 59%;
+        left: 67%;
+        font-size: 17px;
+        padding: 10px 16px;
+        top: -90px;
     }
 }
 
-@media (min-width: 10px) and (max-width: 767px) {
+@media (min-width: 851px) and (max-width: 991px) {
 
     .button-outside {
-        font-size: 10px;
-        padding: 4px 9px;
-        top: -50px;
+        left: 68%;
+        font-size: 17px;
+        padding: 10px 16px;
+        top: -90px;
+    }
+}
+
+/* from here 2 on a row */
+
+@media (min-width: 992px) and (max-width: 1100px) {
+
+    .button-outside {
+        left: 62%;
+        font-size: 14px;
+        padding: 8px 14px;
+        top: -60px;
+    }
+}
+
+@media (min-width: 1101px) and (max-width: 1200px) {
+
+    .button-outside {
+        left: 64%;
+        font-size: 14px;
+        padding: 8px 14px;
+        top: -62px;
+    }
+}
+
+@media (min-width: 1201px) and (max-width: 1300px) {
+
+    .button-outside {
+        left: 66%;
+        font-size: 14px;
+        padding: 8px 14px;
+        top: -65px;
+    }
+}
+
+@media (min-width: 1301px) and (max-width: 1400px) {
+
+    .button-outside {
+        left: 66%;
+        font-size: 14px;
+        padding: 8px 14px;
+        top: -65px;
+    }
+}
+
+@media (min-width: 1401px) and (max-width: 1500px) {
+
+    .button-outside {
+        left: 66%;
+        font-size: 15px;
+        padding: 8px 14px;
+        top: -70px;
+    }
+}
+
+@media (min-width: 1501px) and (max-width: 1600px) {
+
+    .button-outside {
+        left: 66%;
+        font-size: 16px;
+        padding: 10px 16px;
+        top: -78px;
+    }
+}
+
+@media (min-width: 1601px) and (max-width: 1800px) {
+
+    .button-outside {
+        left: 65%;
+        font-size: 16px;
+        padding: 10px 16px;
+        top: -78px;
+    }
+}
+
+@media (min-width: 1801px) and (max-width: 2000px) {
+
+    .button-outside {
+        left: 63%;
+        font-size: 16px;
+        padding: 10px 16px;
+        top: -78px;
+    }
+}
+
+@media (min-width: 2001px) and (max-width: 2300px) {
+
+    .button-outside {
+        left: 62%;
+        font-size: 16px;
+        padding: 10px 16px;
+        top: -78px;
+    }
+}
+
+@media (min-width: 2301px) {
+
+    .button-outside {
+        left: 60%;
+        font-size: 16px;
+        padding: 10px 16px;
+        top: -78px;
     }
 }

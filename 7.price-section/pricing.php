@@ -2,10 +2,12 @@
 
 echo '
            <div class="row" id="pricing">
+           <h2>Website packages</h2>
+           <h3>Packages for every budget!</h3>
         <div class="container group">
             <div class="grid-1-5">
-                <h2>Basic</h2>
-                <h3><span class="uppercase">£299</span></h3>
+                <p class="price-package">Basic</p>
+                <p  class="price-in-pounds"><span class="uppercase">£299</span></p>
                 <p>1 Page</p>
                 <ul>
                     <li>Business Email</li>
@@ -17,8 +19,8 @@ echo '
                 <a class="button-pricing" href="tel:07794922161">Call us</a>
             </div>
             <div class="grid-1-5">
-                <h2>Startup</h2>
-                <h3><span class="uppercase">£499</span></h3>
+                <p class="price-package">Standard</p>
+                <p class="price-in-pounds"><span class="uppercase">£499</span></p>
                 <p>Up to 5 pages</p>
                 <ul>
                     <li>Everything from Basic</li>
@@ -30,11 +32,11 @@ echo '
                 <a class="button-pricing" href="tel:07794922161">Call us</a>
             </div>
             <div class="grid-1-5">
-                <h2>Premium</h2>
-                <h3><span class="uppercase">£899</span></h3>
+                <p class="price-package">Premium &amp; SEO</p>
+                <p class="price-in-pounds"><span class="uppercase">£899</span></p>
                 <p>Up to 10 pages</p>
                 <ul>
-                    <li>Everything from Startup</li>
+                    <li>Everything from Standard</li>
                     <li>85% On-page SEO Guaranteed</li>
                     <li>Page submission to Google &amp; Bing</li>
                     <li>2 years Free Hosting</li>
@@ -44,8 +46,8 @@ echo '
                 <a class="button-pricing" href="tel:07794922161">Call us</a>
             </div>
             <div class="grid-1-5">
-                <h2>Ecommerce</h2>
-                <h3><span class="uppercase">£999</span></h3>
+                <p class="price-package">Ecommerce</p>
+                <p class="price-in-pounds"><span class="uppercase">£999</span></p>
                 <p>Up to 5 pages</p>
                 <ul>
                     <li>Everything from Basic</li>
@@ -56,8 +58,8 @@ echo '
                 <a class="button-pricing" href="tel:07794922161">Call us</a>
             </div>
             <div class="grid-1-5">
-                <h2>Ecommerce &amp; SEO</h2>
-                <h3><span class="uppercase">£1299</span></h3>
+                <p class="price-package">Ecommerce &amp; SEO</p>
+                <p class="price-in-pounds"><span class="uppercase">£1299</span></p>
                 <p>Up to 10 pages</p>
                 <ul>
                     <li>Everything from Basic</li>

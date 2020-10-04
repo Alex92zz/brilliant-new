@@ -1,6 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900);
-
-
 #pricing {
 
     background-color: #211f23;
@@ -34,7 +31,8 @@
 
 .grid-1-5 {
     border: 2px solid #5d4e65;
-    margin: 4px;
+    margin: 7px;
+    margin-bottom: 10px;
     min-height: 400px;
     padding: 1.25em;
     position: relative;
@@ -42,10 +40,19 @@
     transition: all .2s ease-in-out;
 }
 
+@media screen and (min-width: 10px) and (max-width:699px) {
+    .grid-1-5 {
+        margin-bottom: 15px;
+    }
+
+}
+
 @media screen and (min-width: 700px) {
     .grid-1-5 {
         float: left;
-        width: 48%;
+        width: 47%;
+        margin: 9px;
+        margin-bottom: 15px;
     }
 
     .grid-1-5:nth-child(odd) {
@@ -63,14 +70,17 @@
 
 @media screen and (min-width: 800px) {
     .grid-1-5 {
-        width: 48%;
+        width: 47%;
+        margin: 9px;
+        margin-bottom: 15px;
     }
 
 }
 
 @media screen and (min-width: 1120px) {
     .grid-1-5 {
-        width: 19%;
+        margin: 4px;
+        width: 18%;
     }
 
     .grid-1-5:nth-child(odd),
@@ -80,6 +90,7 @@
 }
 
 .grid-1-5:hover {
+    cursor: pointer;
     background-color: #53455b;
     *zoom: 1;
     filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF53455B', endColorstr='#FF201D22');
@@ -92,7 +103,7 @@
     border-top: 2px solid #ec7a37;
     border-bottom: 2px solid #ff4f69;
     box-shadow: 0px 0px 10px 0px #323232;
-    transform: scale(1.025);
+    transform: scale(1.075);
     z-index: auto;
 }
 
@@ -134,36 +145,50 @@
     background-image: linear-gradient(to right, #ee7a36 0%, #eb495d 100%);
 }
 
-#pricing h3,
+#pricing,
 p,
 ul {
     margin: 0;
 }
 
 #pricing h2 {
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+    text-shadow: 1px 6px 5px #aba8a8;
+    text-transform: uppercase;
+}
+
+#pricing h3 {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+    font-weight: 300;
+    font-style: italic;
+    text-shadow: 1px 4px 3px #aba8a8;
+}
+
+.price-package {
     font-size: 1em;
     font-weight: 400;
     margin: 0 0 0.5em;
 }
 
-#pricing h3 {
+.price-in-pounds {
     font-size: 1.5em;
     letter-spacing: 0.0625em;
     margin: 0 0 0.3333333333333333em;
 }
 
-#pricing p {
-    font-size: 0.875em;
-}
-
 #pricing p,
 ul {
-    margin: 0 0 1.5em;
+    margin: 0 0 0.8em;
 }
 
 #pricing ul {
-    color: #796583;
-    font-size: 0.75em;
+    color: #917d9b;
+    font-size: 0.83em;
     list-style-type: none;
     padding: 0;
 }
