@@ -42,6 +42,32 @@ echo '
                 <p><a href="#seo">SEO Optimisation</a></p>
             </div>
         </div>
+        <div class="row" id="extra-websites">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <p>
+        <a href="web-design-willenhall.php">.</a>
+        <a href="web-design-wednesbury.php">.</a>
+        <a href="web-design-walsall.php">.</a>
+        <a href="web-design-tipton.php">.</a>
+        <a href="web-design-tamworth.php">.</a>
+        <a href="web-design-stourbridge.php">.</a>
+        <a href="web-design-sparkbrook.php">.</a>
+        <a href="web-design-solihull.php">.</a>
+        <a href="web-design-selly-oak.php">.</a>
+        <a href="web-design-rowley-regis.php">.</a>
+        <a href="web-design-minworth.php">.</a>
+        <a href="web-design-kidderminster.php">.</a>
+        <a href="web-design-frankley.php">.</a>
+        <a href="web-design-erdington.php">.</a>
+        <a href="web-design-edgbaston.php">.</a>
+        <a href="web-design-cradley-heath.php">.</a>
+        <a href="web-design-brierley-hill.php">.</a>
+        <a href="web-design-bilston.php">.</a>
+        <a href="web-design-bearwood.php">.</a>
+    </p>
+        </div>
+
+        </div>
     </footer>
     
     ';

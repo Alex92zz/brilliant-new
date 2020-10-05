@@ -17,12 +17,11 @@
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Web Design Smethwick | Website Design | Web Designer UK</title>
+    <title>Web Design Cradley Heath | Website Design | Web Designer</title>
 
-    <meta name="description" content="UK&#039;s No. 1 website design company &amp; best web designers. Stunning &amp; effective web design in Birmingham, Halesowen, Smethwick, Quinton, Dudley, Oldbury">
+    <meta name="description" content="UK&#039;s No. 1 website design company &amp; best web designers. Stunning &amp; effective web design in Cradley Heath. We are the best web designers in Cradley Heath!">
 
-    <meta name="keywords" content="web design smethwick, website designer smethwick, web designer smethwick, web design, website design">
-
+    <meta name="keywords" content="web design Cradley Heath, website designer Cradley Heath, web designer Cradley Heath, web design, website design">
     <meta name="author" content="Brilliant Web Design">
     <meta name="theme-color" content="#23d5ab" />
 
@@ -140,7 +139,7 @@
 
 
         <div id="header-area">
-            <h1 itemprop="description">WEB DESIGN SMETHWICK</h1>
+            <h1 itemprop="description">WEB DESIGN Cradley Heath</h1>
             <h2>Experts in Website Design &amp; SEO</h2>
             <h2>Call us on <span itemprop="telephone" content="+447794922161"><a href="tel:07794922161"> 07794922161</a></span></h2>
 

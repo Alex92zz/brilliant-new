@@ -17,15 +17,13 @@
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Web Design Smethwick | Website Design | Web Designer UK</title>
+    <title>Web Design Stourbridge | Website Design | Web Designer</title>
 
-    <meta name="description" content="UK&#039;s No. 1 website design company &amp; best web designers. Stunning &amp; effective web design in Birmingham, Halesowen, Smethwick, Quinton, Dudley, Oldbury">
+    <meta name="description" content="UK&#039;s No. 1 website design company &amp; best web designers. Stunning &amp; effective web design in Stourbridge, Halesowen, Smethwick, Quinton, Dudley, Oldbury">
 
-    <meta name="keywords" content="web design smethwick, website designer smethwick, web designer smethwick, web design, website design">
-
+    <meta name="keywords" content="web design Stourbridge, website designer Stourbridge, web designer Stourbridge, web design, website design">
     <meta name="author" content="Brilliant Web Design">
     <meta name="theme-color" content="#23d5ab" />
-
 
 
     <link rel="stylesheet" href="7.price-section/allcss.css">
@@ -140,7 +138,7 @@
 
 
         <div id="header-area">
-            <h1 itemprop="description">WEB DESIGN SMETHWICK</h1>
+            <h1 itemprop="description">WEB DESIGN STOURBRIDGE</h1>
             <h2>Experts in Website Design &amp; SEO</h2>
             <h2>Call us on <span itemprop="telephone" content="+447794922161"><a href="tel:07794922161"> 07794922161</a></span></h2>
 
@@ -259,7 +257,7 @@
                         <h3>Your local web design company!</h3>
                         <span id="typer-text" class="txt-type module" data-wait="2500" data-words='[ " Free business email!", "Free SSL Certificate!", "Google analytics!", "SEO optimised!", "Social media API!", "Mobile responsive!","Fast UK hosting!"]'></span>
                         <p class="section2-p">At Brilliant Web Design our passion is to provide innovative, highly functional, visually appealing and feature-rich website designs.</p>
-                        <p class="section2-p">We are a Halesowen website design company specialising in hand coded websites using today&apos;s modern technologies to achieve brilliant on page SEO and website speeds less than 0.10s.</p>
+                        <p class="section2-p">We are a website design company specialising in hand coded websites using today&apos;s modern technologies to achieve brilliant on page SEO and website speeds less than 0.10s.</p>
                         <p class="section2-p">We don&apos;t just take your order and modify a theme to build your website. We are professional website designers and website developers who take the time to get to know you and your business needs to build you a unique website that will resonate with your clients and drive business growth. </p>
                     </div>
                 </div>

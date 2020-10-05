@@ -110,6 +110,11 @@ a:hover {
     position: absolute;
     top: 35%;
     margin-left: 15%;
+    text-transform: uppercase;
+}
+
+#header-area h1 {
+    text-transform: uppercase;
 }
 
 #header-area a:any-link {

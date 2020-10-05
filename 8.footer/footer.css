@@ -78,3 +78,14 @@ footer i {
         margin-right: 10%;
     }
 }
+
+
+#extra-websites p a {
+    padding: 0;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    height: 1px;
+    background-color: black;
+    text-align: center;
+    color: black;
+}

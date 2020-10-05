@@ -27,8 +27,7 @@
     <meta name="theme-color" content="#23d5ab" />
 
     <link rel="stylesheet" href="7.price-section/allcss.css">
-
-    <!-- 0. global styles 
+    <!-- 0. global styles   
     <link rel="stylesheet" href="0.global-styles/google-fonts.css">
     <link rel="stylesheet" href="0.global-styles/font-awesome-5-9-0.css">
     <link rel="stylesheet" href="0.global-styles/font-awesome-4-7-0.css">
@@ -36,39 +35,28 @@
     <link rel="stylesheet" href="0.global-styles/style.css">
     <link rel="stylesheet" href="0.global-styles/scrollbar.css">
 
-
     <link rel="stylesheet" href="1.nav/animated-square.css">
     <link rel="stylesheet" href="1.nav/rotating-diamond.css">
     <link rel="stylesheet" href="1.nav/menuanimation.css">
     <link rel="stylesheet" href="1.nav/nav-overlay.css">
     <link rel="stylesheet" href="1.nav/social.css">
 
-
     <link rel="stylesheet" href="2.main-header/3d-button.css">
-
 
     <link rel="stylesheet" href="3.what-we-offer/flickity.css">
     <link rel="stylesheet" href="3.what-we-offer/slider.css">
 
-
     <link rel="stylesheet" href="4.your-local-design-company/your-local-design-company.css">
-
 
     <link rel="stylesheet" href="5.portfolio/portfolio.css">
     <link rel="stylesheet" href="5.portfolio/button-outside.css">
 
-
     <link rel="stylesheet" href="6.responsive-web-design/responsive-web-design.css">
-
 
     <link rel="stylesheet" href="7.price-section/price.css">
 
-
     <link rel="stylesheet" href="8.footer/footer.css">
-
-   
-   --->
-
+--->
 
 
     <link rel="shortcut icon" type="image/x-icon" href="images/icon/diamond2.png">

@@ -17,12 +17,11 @@
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Web Design Smethwick | Website Design | Web Designer UK</title>
+    <title>Web Design Tamwroth | Website Design | Web Designer</title>
 
-    <meta name="description" content="UK&#039;s No. 1 website design company &amp; best web designers. Stunning &amp; effective web design in Birmingham, Halesowen, Smethwick, Quinton, Dudley, Oldbury">
+    <meta name="description" content="UK&#039;s No. 1 website design company &amp; best web designers. Stunning &amp; effective web design in Tamwroth. We are the best web designers in Tamwroth!">
 
-    <meta name="keywords" content="web design smethwick, website designer smethwick, web designer smethwick, web design, website design">
-
+    <meta name="keywords" content="web design Tamwroth, website designer Tamwroth, web designer Tamwroth, web design, website design">
     <meta name="author" content="Brilliant Web Design">
     <meta name="theme-color" content="#23d5ab" />
 
@@ -59,7 +58,6 @@
 
     <link rel="stylesheet" href="8.footer/footer.css">
 --->
-
 
 
     <link rel="shortcut icon" type="image/x-icon" href="images/icon/diamond2.png">
@@ -140,7 +138,7 @@
 
 
         <div id="header-area">
-            <h1 itemprop="description">WEB DESIGN SMETHWICK</h1>
+            <h1 itemprop="description">WEB DESIGN Tamwroth</h1>
             <h2>Experts in Website Design &amp; SEO</h2>
             <h2>Call us on <span itemprop="telephone" content="+447794922161"><a href="tel:07794922161"> 07794922161</a></span></h2>
 
