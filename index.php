@@ -28,9 +28,7 @@
     <meta name="theme-color" content="#23d5ab" />
 
 
-    <link rel="stylesheet" href="7.price-section/allcss.css">
-
-    <!-- 0. global styles 
+    <!-- 0. global styles --->
     <link rel="stylesheet" href="0.global-styles/google-fonts.css">
     <link rel="stylesheet" href="0.global-styles/font-awesome-5-9-0.css">
     <link rel="stylesheet" href="0.global-styles/font-awesome-4-7-0.css">
@@ -68,8 +66,7 @@
 
     <link rel="stylesheet" href="8.footer/footer.css">
 
-   
-   --->
+
 
 
     <link rel="shortcut icon" type="image/x-icon" href="images/icon/diamond2.png">
@@ -270,7 +267,10 @@
                         <span id="typer-text" class="txt-type module" data-wait="2500" data-words='[ " Free business email!", "Free SSL Certificate!", "Google analytics!", "SEO optimised!", "Social media API!", "Mobile responsive!","Fast UK hosting!"]'></span>
                         <p class="section2-p">At Brilliant Web Design our passion is to provide innovative, highly functional, visually appealing and feature-rich website designs.</p>
                         <p class="section2-p">We are a Halesowen website design company specialising in hand coded websites using today&apos;s modern technologies to achieve brilliant on page SEO and website speeds less than 0.10s.</p>
-                        <p class="section2-p">We don&apos;t just take your order and modify a theme to build your website. We are professional website designers and website developers who take the time to get to know you and your business needs to build you a unique website that will resonate with your clients and drive business growth. </p>
+                        <p class="section2-p"> We are professional website designers and website developers who take the time to get to know you and your business needs to build you a unique website that will resonate with your clients and drive business growth. </p>
+                        <p class="section2-p">
+                            We believe that creating memorable experiences are the best way to connect with your consumers. From dynamic web designs to cutting-edge digital marketing strategies, we believe that the custom solutions we create today will transcend the trends of tomorrow. No matter your product or service, you have a story to tell. And, we’re the best to tell it.
+                        </p>
                     </div>
                 </div>
             </div>

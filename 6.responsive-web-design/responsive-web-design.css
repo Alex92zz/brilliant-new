@@ -36,12 +36,11 @@
     padding: 5px;
 }
 
-
 .paragraph img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 600px;
+    width: 80%;
     border-radius: 10px;
     box-shadow: 12px 10px 5px #ccc;
     -moz-box-shadow: 12px 10px 5px #ccc;
@@ -74,7 +73,6 @@
     }
 
     .paragraph img {
-        width: 82%;
         border-radius: 10px;
         margin-bottom: 20px;
     }

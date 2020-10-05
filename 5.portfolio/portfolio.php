@@ -24,7 +24,7 @@ echo '
                 <a href="http://progymfitness.brilliantwebdesign.co.uk/">
                     <div class="portfolio-margin-top">
                         <img loading="lazy" alt="web design portfolio image dudley" class="portfolio-image" src="5.portfolio/pro-gym-fitness-3-2-main.jpg">
-                        <button type="button" class="button-outside">Gym Home</button>
+                        <button type="button" class="button-outside">ProGym</button>
                     </div>
 
                 </a>
