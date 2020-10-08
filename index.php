@@ -2,19 +2,6 @@
 <html lang="en">
 
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-170720387-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'UA-170720387-1');
-
-    </script>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Web Design Halesowen | Website Design | Web Designer UK</title>
@@ -26,9 +13,11 @@
 
     <meta name="author" content="Brilliant Web Design">
     <meta name="theme-color" content="#23d5ab" />
-
+    <!--
     <link rel="stylesheet" href="7.price-section/allcss.css">
-    <!-- 0. global styles   
+   0. global styles   --->
+
+
     <link rel="stylesheet" href="0.global-styles/google-fonts.css">
     <link rel="stylesheet" href="0.global-styles/font-awesome-5-9-0.css">
     <link rel="stylesheet" href="0.global-styles/font-awesome-4-7-0.css">
@@ -57,7 +46,7 @@
     <link rel="stylesheet" href="7.price-section/price.css">
 
     <link rel="stylesheet" href="8.footer/footer.css">
---->
+
 
 
 
@@ -95,6 +84,19 @@
                 "ratingCount": "85"
             }
         }
+
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-170720387-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-170720387-1');
 
     </script>
 </head>
@@ -179,8 +181,8 @@
             <!-- 3d-button.css --->
             <figure>
                 <div>
-                    <span><a href="#your-local-design-company-section">ABOUT US</a></span>
-                    <span><a href="#your-local-design-company-section">ABOUT US</a></span>
+                    <span><a href="#pricing">Pricing</a></span>
+                    <span><a href="#pricing">Pricing</a></span>
                 </div>
             </figure>
         </div>
