@@ -2,9 +2,6 @@
 
 echo '
 
-
-    
-    
     <div class="gallery-cell">
 
     <picture>

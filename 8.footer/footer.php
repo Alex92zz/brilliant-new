@@ -1,4 +1,8 @@
-<footer>
+<?php
+
+echo '
+
+   <footer>
     <div class="row" id="footer">
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 footer-small">
             <h4>GET IN TOUCH</h4>
